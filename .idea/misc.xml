@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (TRSPO)" project-jdk-type="Python SDK" />
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.6 (RandomGithubPJ)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (RandomGithubPJ)" project-jdk-type="Python SDK" />
+>>>>>>> b5590ba3035749feeb7c9622210de4f1c542ea0e
 </project>

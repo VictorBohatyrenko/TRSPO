@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/TRSPO.iml" filepath="$PROJECT_DIR$/.idea/TRSPO.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/.idea/RandomGithubPJ.iml" filepath="$PROJECT_DIR$/.idea/RandomGithubPJ.iml" />
+>>>>>>> b5590ba3035749feeb7c9622210de4f1c542ea0e
     </modules>
   </component>
 </project>
